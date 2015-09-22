@@ -1,0 +1,76 @@
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MainWindow.baml
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MainWindow.g.cs
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\App.g.cs
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.cache
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MastaMind.g.resources
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MastaMind.Properties.Resources.resources
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MastaMind.csproj.GenerateResource.Cache
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\bin\Debug\MastaMind.exe
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\bin\Debug\MastaMind.pdb
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MastaMind.exe
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\MastaMind.pdb
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\GameWindow.baml
+c:\users\ellie\documents\visual studio 2010\Projects\MastaMind\MastaMind\obj\x86\Debug\GameWindow.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\CluePin.baml
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MainWindow.baml
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\Pin.baml
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\CluePin.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GameWindow.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\Pin.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\App.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.cache
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.lref
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.exe.config
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.exe
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.pdb
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GameWindow.baml
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.g.resources
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.Properties.Resources.resources
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.csproj.GenerateResource.Cache
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.exe
+C:\Users\Ellie\Documents\Visual Studio 2013\Projects\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.pdb
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\CluePin.baml
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MainWindow.baml
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\Pin.baml
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\CluePin.g.cs
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GameWindow.g.cs
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\Pin.g.cs
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\App.g.cs
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.cache
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.lref
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.exe.config
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.exe
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.pdb
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GameWindow.baml
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.g.resources
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.Properties.Resources.resources
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.csproj.GenerateResource.Cache
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.exe
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.pdb
+C:\Users\Elias\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.csprojResolveAssemblyReference.cache
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.exe.config
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.exe
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.pdb
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.exe
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\bin\Debug\MastaMind.pdb
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MainWindow.baml
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GameWindow.g.cs
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\App.g.cs
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.cache
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind_MarkupCompile.lref
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\GameWindow.baml
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.g.resources
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.Properties.Resources.resources
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\MastaMind.csproj.GenerateResource.Cache
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\UserControls\CluePin.baml
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\UserControls\Pin.baml
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\UserControls\CluePin.g.cs
+C:\Users\Ellie\mastermind-csharp\MastaMind\MastaMind\obj\x86\Debug\UserControls\Pin.g.cs
