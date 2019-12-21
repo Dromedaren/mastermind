@@ -31,7 +31,7 @@ namespace MastaMind
         #region GameWindow Fields
         public event PropertyChangedEventHandler PropertyChanged;
         private FileSystemWatcher watcher;
-        string filesavelocation = @"C:\Users\elili552\Documents\gamedata.json";
+		string filesavelocation = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + @"\gamedata.json";
 
         List<List<Pin>> GUIBoardPins;
         List<List<CluePin>> GUICluePins;
@@ -75,7 +75,7 @@ namespace MastaMind
         #region FileSystemWatcher
         private void InitializeFileWatcher() {
             watcher = new FileSystemWatcher();
-            watcher.Path = @"C:\Users\elili552\Documents\";
+            watcher.Path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\";
             watcher.Filter = @"gamedata.json";
             watcher.Changed += new FileSystemEventHandler(LoadGameData);
             watcher.EnableRaisingEvents = true;

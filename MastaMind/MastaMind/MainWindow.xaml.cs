@@ -20,7 +20,7 @@ using System.ComponentModel;
 namespace MastaMind
 {
     /// <summary>
-    /// // <author> Eli Lilja </author>
+    /// // <author> Ellie Lilja </author>
     /// // Innovativ Programmering, Linköpings Universitet
     /// // TDDD49
     /// Interaction logic for GUI, MainWindow.xaml

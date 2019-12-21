@@ -24,7 +24,7 @@ namespace MastaMind.Engine {
     public class GameEngine : INotifyPropertyChanged {
       
         #region Game-engine fields
-        public string filesavelocation = @"C:\Users\elili552\Documents\gamedata.json";
+        public string filesavelocation = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + @"\gamedata.json";
         public event PropertyChangedEventHandler PropertyChanged;
 
         public static GameEngine instance;
